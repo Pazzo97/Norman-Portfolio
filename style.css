@@ -1,0 +1,64 @@
+.page-wrapper {
+  border-radius: 3px;
+  background-color: #bebdbd;
+  margin: 2rem;
+  padding: 2rem;
+}
+
+.p-header {
+  text-align: center;
+}
+
+.p-header > h1 {
+  font-size: 2rem;
+  font-weight: 700 !important;
+}
+
+.hero-container {
+  background-color: white;
+  text-align: center;
+  padding: 3rem;
+}
+
+.img-caption {
+  padding-top: 1.5rem;
+  font-size: 1rem;
+}
+
+.list-title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 2rem;
+}
+
+.list-title > h4 {
+  text-align: center;
+}
+
+.list-title > ul {
+  max-width: 550px;
+  margin: 0 auto 50px auto;
+  padding-top: 2rem !important;
+}
+
+.list-title > ul > li {
+  padding-top: 1.5rem !important;
+}
+
+.list-title > i {
+  max-width: 550px;
+  margin: 0 auto 3rem 20rem;
+}
+
+.tribute-link {
+  text-align: center;
+}
+
+span {
+  font-weight: bold;
+}
+
+.text-left {
+  justify-self: start !important;
+}
