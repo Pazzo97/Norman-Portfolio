@@ -2,46 +2,41 @@
 
 > This Project is about Dr. Norman Borlaug life and achievments in fighting against hunger worldwide. He is known as The man who saved a billion lives.
 
+## Built Withhttps:
 
-## Built With
-
-- Html&CSS
+- Html5
+- CSS3
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+> open your terminal and do git clone https://github.com/Pazzo97/Norman-Portfolio.git to have this project locally.
 
 
+## Author
 
-## Authors
+👤 **Author**
 
-👤 **Author1**
+- GitHub: [@Pazzo97](https://github.com/Pazzo97)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/patrick-mukunzi-8389861a9/)
 
-- GitHub: [@pazzo97](https://github.com/Pazzo97)
-- LinkedIn: [Patrick MUKUNZI](https://www.linkedin.com/in/patrick-mukunzi-8389861a9/)
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/Pazzo97/Norman-Portfolio/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
+- geeksforgeeks
+- stack overflow
+- medium
+- w3school
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+## 📝 License
+
+This project is [MIT](LICENSE) licensed.
